@@ -3,3 +3,4 @@ python-dotenv
 streamlit
 pysqlite3-binary
 langchain_google_genai
+gradio
