@@ -1,0 +1,8 @@
+Coding:
+  description: >
+    1. Write python code on the {context} provided to you.\n
+    2. The python code should contain the necessary comments.\n
+    3. The code should be optimized and follow the best practices.\n
+    4. The code should be well-structured and easy to understand.\n
+  expected_output: >
+    A python script that performs the required task, with comments, following best practices and is well-structured.
