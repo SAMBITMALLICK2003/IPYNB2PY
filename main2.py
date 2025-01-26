@@ -20,7 +20,8 @@ KEY = os.getenv("GOOGLE_API_KEY")
 
 my_llm = LLM(
     api_key=KEY,
-    model="gemini/gemini-2.0-flash-exp"
+    model="gemini/gemini-2.0-flash-exp",
+    max_completion_tokens=8192
 )
 
 
